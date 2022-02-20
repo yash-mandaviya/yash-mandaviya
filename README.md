@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on private/public projects, freelance projects.
 - 🤔 I’m looking for help with internal nesting of data structures in java
 - 💬 Ask me about Dart, Algorithms, Java, C, C++ etc..
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in.yash-mandaviya-7a7656177 or by dropping a mail at: ymmandaviya1234@gmail.com
+- 📫 How to reach me: Reach me via: LinkedIn - https://www.linkedin.com/in.yash-mandaviya-7a7656177 or by dropping a mail at - ymmandaviya1234@gmail.com
 - 😄 Pronouns: Peeps know me as Mandy
 <!-- - ⚡ Fun fact: I'm honest & kind  -->
 
