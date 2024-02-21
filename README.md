@@ -4,7 +4,7 @@
 <br>
 <div>
 
-- 💬 <samp>Ask me about Flutter, Dart & Firebase.
+- 💬 <samp>Ask me about Flutter, Dart & Firebase, Python and C#.
 - 🥇 <samp>Interested in Open Source contributions. 
 - 😄 <samp>Pronouns: He/His.
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
