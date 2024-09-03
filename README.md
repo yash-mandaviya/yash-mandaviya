@@ -1,7 +1,7 @@
 <p align="center"><samp><b>👨‍💻 Innovating with Code, One Commit at a Time 🚀</b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Yash Mandaviya </samp></h1></p> 
 <p align="center"><h4 align="center"><samp> Software Engineer | Full Stack Developer | Open Source Enthusiast</samp></h4></p>
-<br> 
+
 <div>
 <h4>🔭 Currently working on scalable web applications and mobile solutions</h4>
 <h4>💡Passionate about creating efficient, user-friendly software</h4>
