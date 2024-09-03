@@ -2,12 +2,13 @@
 <p align="center"><h1 align="center"><samp> I am Yash Mandaviya </samp></h1></p> 
 <p align="center"><h4 align="center"><samp> Software Engineer | Full Stack Developer | Open Source Enthusiast</samp></h4></p>
 <br> 
-
-🔭 <h4><samp>Currently working on scalable web applications and mobile solutions</samp></h4>
-💡 <h4><samp>Passionate about creating efficient, user-friendly software</samp></h4>
-🌱 <h4><samp>Always learning and exploring new technologies</samp></h4>
-🤝 <h4><samp>Open to collaborations on innovative projects</samp></h4>
-🎯 <h4><samp>Goal-oriented developer with a knack for problem-solving</samp></h4>
+<div>
+🔭 <h4>Currently working on scalable web applications and mobile solutions</h4>
+💡 <h4>Passionate about creating efficient, user-friendly software</h4>
+🌱 <h4>Always learning and exploring new technologies</h4>
+🤝 <h4>Open to collaborations on innovative projects</h4>
+🎯 <h4>Goal-oriented developer with a knack for problem-solving</h4>  
+</div>
 
 ##
 
