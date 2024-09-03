@@ -1,16 +1,16 @@
-<p align="center"><samp><b> Hello, World! 👋 </b></samp></p>
-<p align="center"><h1 align="center"><samp> I'm Yash Mandaviya </samp></h1></p>
-<p align="center"><h4 align="center"><samp> Software Developer | Problem Solver | Tech Enthusiast </samp></h4></p>
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Yash Mandaviya </samp></h1></p>
+<p align="center"><h4 align="center"><samp> Software Engineer | C# Developer | Flutter Enthusiast </samp></h4></p>
 <br>
 <div>
 
-- 💻 <samp>Software developer with 9 months of experience in C#
-- 🚀 <samp>Passionate about building robust applications and solving complex problems
-- 🌐 <samp>Experienced in .NET Framework, WPF, and Entity Framework
-- 📱 <samp>Mobile app developer with Flutter experience
-- 🎓 <samp>Master's student in Computer Science at University of Windsor
-- 🏆 <samp>Hackathon finalist and technical quiz coordinator
-- 👯 <samp>Looking to collaborate on innovative projects and open-source contributions
+- 💼 <samp>9 months of software development experience in C#
+- 🚀 <samp>Experienced with .NET Framework, WPF, Entity Framework
+- 🌐 <samp>Proficient in Flutter, Dart, Firebase, Python
+- 🏆 <samp>Hackathon finalist at Smart Gujarat For New India Hackathon 2019-2020
+- 🎓 <samp>Master's in Computer Science from University of Windsor
+- 👯 <samp>Looking to collaborate on open source projects
+- 📊 <samp>Passionate about data analysis and visualization
 </div>
 
 ##
@@ -18,30 +18,25 @@
 <h4><b><samp>Tech Stack</samp></b></h4>
 
 C#
-Java
-C++
-Python
-Flutter
 .NET
+Flutter
+Dart
+Python
 SQL Server
-MongoDB
+
+<h4><b><samp>Tools & Platforms</samp></b></h4>
+
+Visual Studio
 Git
+Firebase
+Android Studio
 
 ##
 
-<h4><b><samp>Projects Highlight</samp></b></h4>
+<h4><b><samp>Connect with me:</samp></b></h4>
 
-- 🏥 <samp>Mobile Hypertension Clinic: Healthcare app migrated from Android to iOS
-- 🍽️ <samp>Restaurant QR Menu: Dining reservation app on Play Store
-- ✈️ <samp>Flight Price Analysis: Terminal-based platform for best flight options
-- 📊 <samp>Canadian Labour Market Analysis: Data-driven insights using MongoDB and ML
-
-##
-
-<h4><b><samp>Let's Connect!</samp></b></h4>
-
-[LinkedIn
-[GitHub
-[Email
-
-<p align="center"><samp>Open to new opportunities and collaborations!</samp></p>
+[![Contact](https://img.shields.io/badge/ymmandaviya1234@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:ymmandaviya1234@gmail.com)
+[![Twitter](https://img.shields.io/badge/@YashMandaviya4-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YashMandaviya4)
+[![Linkedin](https://img.shields.io/badge/Yash_Mandaviya-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mandaviya/) 
+[![Stack Overflow](https://img.shields.io/badge/Yash_Mandaviya-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19799314/yash-mandaviya)
+[![Medium](https://img.shields.io/badge/@YashMandaviya-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YashMandaviya)
