@@ -3,11 +3,11 @@
 <p align="center"><h4 align="center"><samp> Software Engineer | Full Stack Developer | Open Source Enthusiast</samp></h4></p>
 <br> 
 <div>
-🔭 <h4>Currently working on scalable web applications and mobile solutions</h4>
-💡 <h4>Passionate about creating efficient, user-friendly software</h4>
-🌱 <h4>Always learning and exploring new technologies</h4>
-🤝 <h4>Open to collaborations on innovative projects</h4>
-🎯 <h4>Goal-oriented developer with a knack for problem-solving</h4>  
+<h4>🔭 Currently working on scalable web applications and mobile solutions</h4>
+<h4>💡Passionate about creating efficient, user-friendly software</h4>
+<h4>🌱 Always learning and exploring new technologies</h4>
+<h4>🤝 Open to collaborations on innovative projects</h4>
+<h4>🎯 Goal-oriented developer with a knack for problem-solving</h4>  
 </div>
 
 ##
