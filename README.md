@@ -1,64 +1,64 @@
-<p align="center"><samp><b>👨‍💻 Innovating with Code, One Commit at a Time 🚀</b></samp></p>
-<p align="center"><h1 align="center"><samp> I am Yash Mandaviya </samp></h1></p> 
-<p align="center"><h4 align="center"><samp> Software Engineer | Full Stack Developer | Open Source Enthusiast</samp></h4></p>
+<h1 align="center">Hi 👋, I'm Yash Mandaviya</h1>
+<h3 align="center">A passionate full-stack developer from India currently in Canada</h3>
 
-<div>
-<h4>🔭 Currently working on scalable web applications and mobile solutions</h4>
-<h4>💡Passionate about creating efficient, user-friendly software</h4>
-<h4>🌱 Always learning and exploring new technologies</h4>
-<h4>🤝 Open to collaborations on innovative projects</h4>
-<h4>🎯 Goal-oriented developer with a knack for problem-solving</h4>  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avc&label=Profile%20views&color=0e75b6&style=flat" alt="avc" /> </p>
 
-##
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avc" alt="avc" /></a> </p>
 
-<h4><b><samp>Programming Languages</samp></b></h4>
+<p align="left"> <a href="https://twitter.com/xfsdfsdf" target="blank"><img src="https://img.shields.io/twitter/follow/xfsdfsdf?logo=twitter&style=for-the-badge" alt="xfsdfsdf" /></a> </p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🔭 I’m currently working on **abc**
 
-<h4><b><samp>Tools and Technologies</samp></b></h4>
+- 🌱 I’m currently learning **jkl**
 
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
-##
+- 👯 I’m looking to collaborate on **def**
 
-<details>
-  <summary><b><samp>📊 Weekly development breakdown</samp></b></summary>
+- 🤝 I’m looking for help with **ghi**
 
-<!--START_SECTION:waka-->
+- 👨‍💻 All of my projects are available at [stu](stu)
 
-```text
-No activity tracked
-```
+- 📝 I regularly write articles on [vwx](vwx)
 
-<!--END_SECTION:waka-->
+- 💬 Ask me about **mno**
 
-##
+- 📫 How to reach me **pqr**
 
-</details>
+- 📄 Know about my experiences [yza](yza)
 
-<details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
-<br>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mandaviya&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-mandaviya&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
- </p>
+- ⚡ Fun fact **bcd**
 
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/dssfdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dssfdf" height="30" width="40" /></a>
+<a href="https://dev.to/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asd" height="30" width="40" /></a>
+<a href="https://twitter.com/xfsdfsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xfsdfsdf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tytry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tytry" height="30" width="40" /></a>
+<a href="https://codesandbox.com/asdfdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="asdfdg" height="30" width="40" /></a>
+<a href="https://kaggle.com/fgfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fgfd" height="30" width="40" /></a>
+<a href="https://fb.com/hjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hjk" height="30" width="40" /></a>
+<a href="https://instagram.com/dfgfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfgfd" height="30" width="40" /></a>
+<a href="https://dribbble.com/jkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jkl" height="30" width="40" /></a>
+<a href="https://www.behance.net/sdfdewr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sdfdewr" height="30" width="40" /></a>
+<a href="https://hashnode.com/sdsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sdsd" height="30" width="40" /></a>
+<a href="https://medium.com/@xcczxczx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xcczxczx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ert" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vcvcfsberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vcvcfsberg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ytut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ytut" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ghjkjyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ghjkjyk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/7768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="7768" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ghhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ghhj" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dghdfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dghdfg" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/vbfgfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="vbfgfd" height="30" width="40" /></a>
+<a href="https://discord.gg/kjlk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kjlk" height="30" width="40" /></a>
+<a href="/uyiyuiyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="uyiyuiyu" height="30" width="40" /></a>
+</p>
 
-##
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<h4><b><samp>Connect with me:</samp></b></h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avc&show_icons=true&locale=en&layout=compact" alt="avc" /></p>
 
-[![Contact](https://img.shields.io/badge/ymmandaviya1234@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:ymmandaviya1234@gmail.com)
-[![Twitter](https://img.shields.io/badge/@YashMandaviya4-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YashMandaviya4)
-[![Linkedin](https://img.shields.io/badge/Yash_Mandaviya-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mandaviya/) 
-[![Stack Overflow](https://img.shields.io/badge/Yash_Mandaviya-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19799314/yash-mandaviya)
-[![Medium](https://img.shields.io/badge/@YashMandaviya-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YashMandaviya)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avc&show_icons=true&locale=en" alt="avc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avc&" alt="avc" /></p>
