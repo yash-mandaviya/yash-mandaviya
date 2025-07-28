@@ -31,21 +31,6 @@
 ##
 
 <details>
-  <summary><b><samp>📊 Weekly development breakdown</samp></b></summary>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-##
-
-</details>
-
-<details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mandaviya&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-mandaviya&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
